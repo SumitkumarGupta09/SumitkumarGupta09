@@ -9,7 +9,7 @@
 🚀 I'm on a journey to build scalable, efficient, and user-friendly web applications.  
 💡 I enjoy solving complex problems, exploring modern tech stacks, and collaborating on innovative projects.  
 🌱 Currently diving deeper into backend systems, databases, and advanced JavaScript frameworks.  
-📫 Reach out to me at: **[sumitvarshney820@.com]** *(update this with your real email)*
+📫 Reach out to me at: **[sumitvarshney820@.com]** 
 
 ---
 
@@ -51,8 +51,8 @@
 
 ## 🚀 Let's Connect!
 
-🔗 **LinkedIn**: [your-linkedin-url]  
-📫 **Email**: [your.email@example.com] *(Don’t forget to update these)*  
+🔗 **LinkedIn**: [www.linkedin.com/in/sumitkumargupta820]  
+📫 **Email**: [sumitvarshney820@gmail.com] 
 
 ---
 
