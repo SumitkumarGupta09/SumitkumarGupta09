@@ -9,7 +9,7 @@
 🚀 I'm on a journey to build scalable, efficient, and user-friendly web applications.  
 💡 I enjoy solving complex problems, exploring modern tech stacks, and collaborating on innovative projects.  
 🌱 Currently diving deeper into backend systems, databases, and advanced JavaScript frameworks.  
-📫 Reach out to me at: **[your.email@example.com]** *(update this with your real email)*
+📫 Reach out to me at: **[sumitvarshney820@.com]** *(update this with your real email)*
 
 ---
 
